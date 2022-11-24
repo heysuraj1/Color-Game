@@ -56,6 +56,7 @@ const UserModal = mongoose.Schema(
       type: "String",
     },
   },
+  
   {
     timestamps: true,
   }
